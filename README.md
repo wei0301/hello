@@ -1,6 +1,3 @@
-# hello
-very good
-
 #include <iostream>
 using namespace std;
 
